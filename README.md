@@ -20,6 +20,6 @@
 
 
 # 音樂<br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=BD6Uf4qHEmk><img src="http://img.youtube.com/vi/BD6Uf4qHEmk/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=BD6Uf4qHEmk" target="_blank"><img src="http://img.youtube.com/vi/BD6Uf4qHEmk/0.jpg" 
 alt="智慧路燈" width="400" height="250" border="10" /></a>
 <br>影片取自 youtube
